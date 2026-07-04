@@ -44,7 +44,6 @@ Bit Manipulation/
 
 ## Progress
 
-- ✅ Solved: `0 / 150`
 - 🎯 Target: `150 / 150`
 
 ---
