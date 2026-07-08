@@ -1,0 +1,23 @@
+// Generic Sliding Window Approach
+
+int i = 0, j = 0;
+
+while (j < n) {
+
+    // 1. Include current element
+    // update window
+    add(arr[j]);
+
+    // 2. Check condition
+    while (window is invalid) {
+        remove(arr[i]);
+        i++;
+    }
+
+    // 3. Window is valid
+    // update answer if needed
+    ans = ...
+
+    // 4. Expand window
+    j++;
+}
